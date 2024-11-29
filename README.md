@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/z4fL/z4fL/blob/main/assets/logo.png" width="15%" alt="GitHub README header image" />
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm ZAFL.
+</p>
+<br><br>
 
-<!--
-**z4fL/z4fL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/enka.network%20hsr-69899c)](https://enka.network/hsr/800735792/)
+[![](https://img.shields.io/badge/enka.network%20gi-69899c)](https://enka.network/u/836625736/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
