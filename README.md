@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/z4fL/z4fL/blob/main/assets/logo.png" width="15%" alt="GitHub README header image" />
+  <img src="https://github.com/z4fL/z4fL/blob/main/assets/logo.png" alt="GitHub README header image" />
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm ZAFL.
