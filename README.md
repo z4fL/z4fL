@@ -2,7 +2,7 @@
   <img src="https://github.com/z4fL/z4fL/blob/main/assets/logo.png" width="125px" alt="GitHub README header image" />
 <h1 align='center'> Hi! :wave:</h1>
 <h3 align='center'>
-I'm ZAFL.
+ZAFL.
 </h3>
 <p align='center' >
 dZAky FadLi.
