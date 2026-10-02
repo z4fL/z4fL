@@ -56,6 +56,7 @@ Outside of software development, I spend my time playing games, exploring techno
 You can also check my **Honkai: Star Rail** account here:
 
 [![](https://img.shields.io/badge/ENKA.NETWORK-69899c?style=for-the-badge\&logo=vercel\&logoColor=white)](https://enka.network/hsr/800735792/)
+[![](https://img.shields.io/badge/fribbels.hsr-optimizer-69899c?style=for-the-badge\&logo=vercel\&logoColor=white)](https://fribbels.github.io/hsr-optimizer#showcase?id=800735792)
 
 ---
 
