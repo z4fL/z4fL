@@ -12,7 +12,7 @@ Building web applications, APIs, and data-driven solutions with a focus on pract
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-z4fl.github.io-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://z4fl.github.io/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-z4fl.github.io-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://z4fl.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Dzaky%20Fadli-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dzaky-fadli-firmansyah/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0381--4401-111111?style=for-the-badge\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0008-0381-4401)
 [![Visitors](https://komarev.com/ghpvc/?username=z4fL\&style=for-the-badge\&color=EF6C6C\&label=VISITORS)](https://github.com/z4fL)
