@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/acheron-hsr.gif" width="100%" alt="HSR Acheron banner" />
+<img src="assets/acheron-hsr.gif" width="640px" alt="HSR Acheron banner" />
 
 <br />
 
